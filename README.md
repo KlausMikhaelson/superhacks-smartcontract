@@ -7,6 +7,10 @@
 - After that it was easy to just use it in the terminal and verify, like below!
 - <img width="608" alt="Screenshot 2024-08-11 at 12 38 47 AM" src="https://github.com/user-attachments/assets/0d317886-7962-4e44-8070-f4cc95b0926c">
 
+# Links of other repos:
+- https://github.com/KlausMikhaelson/super-hacks-server/        
+- https://github.com/KlausMikhaelson/superhacks-extension/
+
 
 
 ## Foundry
